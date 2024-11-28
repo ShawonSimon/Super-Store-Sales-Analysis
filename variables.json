@@ -1,0 +1,8 @@
+{
+    "PG_DBNAME": "postgres",
+    "PG_USER": "postgres",
+    "PG_PASSWORD": "JESUSislord54",
+    "PG_HOST": "102.90.58.231",
+    "PG_PORT": "5432",
+    "connect_str": "DefaultEndpointsProtocol=https;AccountName=superstoresalessa;AccountKey=+NDWzDSZl3KW4zUP5M91tbp2vlrpeMu/DJASY3b4uoZZFYm9l7iVqsvTtFINTr6n4n7dPjpzagrx+ASthZGuhg==;EndpointSuffix=core.windows.net"
+}
