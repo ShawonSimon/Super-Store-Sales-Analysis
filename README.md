@@ -9,13 +9,13 @@ The original dataset was obtained from the [GTS.AI](https://gts.ai/dataset-downl
 ## Project Architecture
 ![Project Architecture](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/ProjectArchitecture.jpg?raw=true)
 
-Technology Stack
-    - OLTP Database: PostgreSQL
-    - ETL Orchestration: Apache Airflow
-    - Cloud Storage: Azure Blob Storage
-    - Data Warehouse: Azure Synapse Analytics
-    - BI Tool: Power BI
-    - Local Development Environment: Windows Subsystem for Linux (WSL)
+### Technology Stack:
+  - Database: PostgreSQL
+  - ETL Orchestration: Apache Airflow
+  - Cloud Storage: Azure Blob Storage
+  - Data Warehouse: Azure Synapse Analytics
+  - BI Tool: Power BI
+  - Local Development Environment: Windows Subsystem for Linux (WSL)
 
 1. Source Database: PostgreSQL stores transactional sales data.
 2. ETL Process:
