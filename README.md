@@ -30,15 +30,10 @@ The original dataset was obtained from the [GTS.AI](https://gts.ai/dataset-downl
 5. Orchestration: Airflow DAG automates the ETL and data movement processes.
 
 ## Screenshots
-![](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/AirflowDAGrun.png?raw=true)
-Airflow DAG runs.
-![](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/ExtractTask.png?raw=true)
-Data extracted successfully
-![](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/FilesAirflow.png?raw=true)
-files in WSL file system
-![](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/RoleAssignment.png?raw=true)
-synapse workspace role assignment for blob storage access
-![](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/DataAnalysis.png?raw=true)
-Data analysis
+![Airflow DAG runs](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/AirflowDAGrun.png?raw=true)
+![Data extracted successfully](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/ExtractTask.png?raw=true)
+![files in WSL file system](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/FilesAirflow.png?raw=true)
+![synapse workspace role assignment for blob storage access](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/RoleAssignment.png?raw=true)
+![Data analysis](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/DataAnalysis.png?raw=true)
 ![](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/Dashboard2.png?raw=true)
 ![](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/Dashboard.png?raw=true)
