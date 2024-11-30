@@ -31,6 +31,7 @@ The original dataset was obtained from the [GTS.AI](https://gts.ai/dataset-downl
 
 ## Screenshots
 ![Airflow DAG runs](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/AirflowDAGrun.png?raw=true)
+![](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/salesERD.png?raw=true)
 ![Data extracted successfully](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/ExtractTask.png?raw=true)
 ![files in WSL file system](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/FilesAirflow.png?raw=true)
 ![synapse workspace role assignment for blob storage access](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/RoleAssignment.png?raw=true)
