@@ -4,9 +4,9 @@
 This data engineering project implements an end-to-end data pipeline for sales analytics, transforming raw transactional data from a PostgreSQL OLTP database into actionable business insights using a modern cloud-based data warehouse and visualization solution.
 
 ## Dataset
-The original dataset was obtained from the [GTS.AI](https://gts.ai/dataset-download/superstore-sales-dataset/). It contains 9993 sales transactions that occurred from 2019 to 2022. This dataset encompasses a wide range of information, including order specifics, geographical data, and product-related data. There are no missing values or any irrelevant data types and values
+The original dataset was obtained from the [GTS.AI](https://gts.ai/dataset-download/superstore-sales-dataset/) website. It contains 9993 sales transactions that occurred from 2019 to 2022. This dataset encompasses a wide range of information, including order specifics, geographical data, and product-related data. There are no missing values or any irrelevant data types and values
 
-## Architecture
+## Project Architecture
 ![Project Architecture](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/ProjectArchitecture.jpg?raw=true)
 Technology Stack
     - OLTP Database: PostgreSQL
