@@ -8,6 +8,7 @@ The original dataset was obtained from the [GTS.AI](https://gts.ai/dataset-downl
 
 ## Project Architecture
 ![Project Architecture](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/ProjectArchitecture.jpg?raw=true)
+
 Technology Stack
     - OLTP Database: PostgreSQL
     - ETL Orchestration: Apache Airflow
