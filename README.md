@@ -29,6 +29,11 @@ The original dataset was obtained from the [GTS.AI](https://gts.ai/dataset-downl
 4. Visualization: Power BI dashboards for presenting KPIs and trends.
 5. Orchestration: Airflow DAG automates the ETL and data movement processes.
 
-## Dashboards
+## Screenshots
+![](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/AirflowDAGrun.png?raw=true)
+![](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/ExtractTask.png?raw=true)
+![](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/FilesAirflow.png?raw=true)
+![](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/RoleAssignment.png?raw=true)
+![](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/DataAnalysis.png?raw=true)
 ![](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/Dashboard2.png?raw=true)
 ![](https://github.com/ShawonSimon/SuperStore-Sales-Data-Engineering/blob/main/screenshots/Dashboard.png?raw=true)
